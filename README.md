@@ -6,7 +6,8 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://wa.me/5548996607600?text=Ol%C3%A1,%20qual%20seu%20nome?%20Em%20breve%20respondo....%20)
 ![Fregnani123 GitHub stats](https://github-readme-stats.vercel.app/api?username=fregnani123&show_icons=true&theme=dracula)
 
-## Tecnologias que uso ou está em desenvolvimento de aprendizagem no meu dia.
+## Tecnologias que utilizo ou estou em busca de desenvolver as habilidades necessárias para utilizá-las no meu dia-dia.
+
   
 <div style= "display: inline_block"><br>
 <img align="center"alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
