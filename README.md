@@ -17,9 +17,9 @@
 <img align="center"alt="nodeJS"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center"alt="React"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="center"alt="github"src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-
-
 </div>
+<br><br>
+
+Em transição de carreira, apaixonado por tecnologia e fazendo o que eu gosto atualmente.
 
 
