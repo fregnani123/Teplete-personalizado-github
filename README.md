@@ -19,7 +19,6 @@
 </div>
 <br><br>
 
-Em transição de carreira, apaixonado por tecnologia e fazendo o que eu gosto atualmente.<br><br>
 
 ## Indicações de tutoriais de vídeos que utilizei:
 -[Como personalizar o seu perfil no Github](https://www.youtube.com/watch?v=cRoBt6AZgjc)
